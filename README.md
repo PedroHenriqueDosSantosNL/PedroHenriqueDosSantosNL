@@ -7,7 +7,6 @@
 </ul>
 <br>
 <h2>✉ Me encontre aqui:</h2>
-<a href="https://www.linkedin.com/in/pedro-henrique-65a7b8233/">Linkedin</a>
-<br>
+<a href="https://www.linkedin.com/in/pedro-henrique-santoos/">Linkedin</a>
 <br>
 <br>
