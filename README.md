@@ -3,10 +3,9 @@
 <br>
 <h2>🚀 Tecnologias que estou usando:</h2>
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
   <li>JavaScript</li>
-  <li>Git</li>
+  <li>React</li>
+  <li>Node</li>
 </ul>
 <br>
 <h2>✉ Me encontre aqui:</h2>
