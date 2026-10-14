@@ -4,7 +4,7 @@
 <h2>🚀 Tecnologias que estou usando:</h2>
 <ul>
   <li>JavaScript</li>
-  <li>React</li>
+  <li>React </li>
   <li>Node.js</li>
 </ul>
 <br>
