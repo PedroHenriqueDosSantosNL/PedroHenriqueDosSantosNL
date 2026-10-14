@@ -5,7 +5,7 @@
 <ul>
   <li>JavaScript</li>
   <li>React</li>
-  <li>Node</li>
+  <li>Node.js</li>
 </ul>
 <br>
 <h2>✉ Me encontre aqui:</h2>
