@@ -3,9 +3,7 @@
 <br>
 <h2>🚀 Tecnologias que estou usando:</h2>
 <ul>
-  <li>JavaScript</li>
-  <li>React </li>
-  <li>Node.js</li>
+  <li>JavaScript/React/Node</li>
 </ul>
 <br>
 <h2>✉ Me encontre aqui:</h2>
